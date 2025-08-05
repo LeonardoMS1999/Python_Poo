@@ -1,11 +1,14 @@
 ﻿# Aqui subo meus estudos de programação orientada a objetos no Python
 
- Classes 
+01 Classes 
   - metodos
   - atributos
   - convencao uso do self para instanciar "quem" chamou o medoto
- Encapsulamento
+
+
+ 02 Encapsulamento
   - getter
   - setter
   - metodos privados
+
 
